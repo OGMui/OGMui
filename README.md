@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+Hi, my name is Ollie Gane from the UK 🇬🇧. I'm currently studying for a Bachelor of Science in Computer Science at the University of London remotely while living on an island in the south of Thailand 🏝️🇹🇭.
+
+I currently have basic knowledge of Python, JavaScript, HTML, and CSS. Outside of my university studies, I'm interested in learning React and databases, which I am exploring through The Odin Project.
+
+Ask me about living remotely in Thailand 💬
+
+[![JavaScript](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png)](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png)
+[![Python](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png)](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png)
+
 <!--
 **OGMui/OGMui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
